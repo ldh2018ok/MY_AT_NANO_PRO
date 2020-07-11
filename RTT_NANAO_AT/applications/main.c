@@ -38,7 +38,7 @@ int main(void)
 {
 
   /* USER CODE BEGIN SysInit */
-    rt_thread_mdelay(100);
+ //   rt_thread_mdelay(100);
     my_app_init();                      //初始化应用参数及线程
   /* USER CODE END SysInit */
 
